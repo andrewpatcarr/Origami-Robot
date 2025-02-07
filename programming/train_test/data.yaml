@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['keyboard', 'monitor', 'mouse', 'robotic-arm']
+
+roboflow:
+  workspace: origami-robot
+  project: robot-arm-detection-test
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/origami-robot/robot-arm-detection-test/dataset/2
