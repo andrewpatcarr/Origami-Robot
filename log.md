@@ -1,6 +1,17 @@
 Logbook
 ---
 ---
+
+02/09/2025
+---
+- created design for electromagnet version, this version has a 0.5 mm clearance with the ground
+
+![electro_mag_clamp](log_photos/electro_mag_clamp.png)
+
+- fixed the motor mount to be easier to screw in the bolts
+- if the electromag clamp work well, I'll start printing all the structures for another copy of the robot
+
+
 12/08/2024
 ---
 - created wiring diagram
