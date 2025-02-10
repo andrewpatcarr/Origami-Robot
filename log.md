@@ -2,6 +2,12 @@ Logbook
 ---
 ---
 
+02/10/2025
+---
+
+![print_electromag_clamp](log_photos/print_electromag_clamp.jpg)
+
+
 02/09/2025
 ---
 - created design for electromagnet version, this version has a 0.5 mm clearance with the ground
