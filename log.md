@@ -2,10 +2,15 @@ Logbook
 ---
 ---
 
+
 02/10/2025
 ---
 
 ![print_electromag_clamp](log_photos/print_electromag_clamp.jpg)
+
+[Here](https://cpslo-my.sharepoint.com/:v:/g/personal/apcarr_calpoly_edu/EQeX1qDltkZLmx_-yNWdb-sBU9HoMRG1q06-mb90tDOUNA?e=ap7Adj&nav=eyJwbGF5YmFja09wdGlvbnMiOnt9LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbE1vZGUiOiJtaXMiLCJyZWZlcnJhbFZpZXciOiJwb3N0cm9sbC1jb3B5bGluayIsInJlZmVycmFsUGxheWJhY2tTZXNzaW9uSWQiOiI2YjhjNDUxOS1lNmJkLTQzNzctOGJlZi1lZGVkMmE0M2VlNmQifX0%3D)
+ is a video of a test with everything assembled. 
+The video is on a truck bed with an uneven surface but does show that it will work well on a proper surface
 
 
 02/09/2025
