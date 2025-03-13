@@ -1,6 +1,13 @@
-_Logbook
+Logbook
 ---
 ---
+
+
+03/12/2025
+---
+- printing PDMS type clamps
+
+![pdms_clamp.png](log_photos/pdms_clamp.png)
 
 
 02/10/2025
