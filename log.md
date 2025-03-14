@@ -2,6 +2,25 @@ Logbook
 ---
 ---
 
+03/13/2025
+----------
+- got pdms mounts fully assembled
+
+![pdms_clamp_assem](log_photos/pdms_clamp_assem.jpg)
+
+- tested without tape, with tape on big face and tried to get tape just on edge
+
+![pdms_clamp_assem_tape_main](log_photos/pdms_clamp_assem_tape_main.jpg)
+
+- without tape, it appears to slightly move, could be moving but hard to tell. Moves opposite my initial intuitive sense. 
+Although it's moving the same direction as the paper friction pads and the small movement from the TPU pads. I think that 
+I've just been thinking about it backwards this whole time.
+- with tape on the main face, it doesn't really get net movement. The edge for grip doesn't work well
+- If I could get tape perfectly on the edge, it could be the perfect combination but it just doesn't stick
+
+
+- Also, worked on some assembly of the new robot. Soldered motor drivers and bolted in joystick and arduino
+
 
 03/12/2025
 ---
